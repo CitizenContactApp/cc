@@ -63,7 +63,7 @@
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_11766_217392" transform="translate(-0.700855 -1.34764) scale(0.00124106 0.00242431)"/>
+<use xlink:href="#image0_11766_217392" transform="matrix(0.00124106 0 0 0.00242431 -0.700855 -1.34764)"/>
 </pattern>
 <filter id="filter0_ddd_11766_217392" x="666" y="358.66" width="52" height="94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

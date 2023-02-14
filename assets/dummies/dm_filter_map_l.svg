@@ -45,7 +45,7 @@
 <rect x="1031" y="295" width="16" height="16" rx="1" fill="white" stroke="#E6E6E6" stroke-width="2"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_10087_389015" transform="translate(-0.0266625 -0.782015) scale(0.000782119 0.00149377)"/>
+<use xlink:href="#image0_10087_389015" transform="matrix(0.000782119 0 0 0.00149377 -0.0266625 -0.782015)"/>
 </pattern>
 <filter id="filter0_ddd_10087_389015" x="666" y="355.112" width="52" height="94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
