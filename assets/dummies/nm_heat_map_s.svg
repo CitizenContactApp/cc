@@ -2,66 +2,40 @@
 <g clip-path="url(#clip0_12496_201267)">
 <g clip-path="url(#clip1_12496_201267)">
 <rect width="936" height="466" transform="translate(-351)" fill="url(#pattern0)"/>
-<circle cx="-0.5" cy="190.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="-0.5" cy="199.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="-0.5" cy="217.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="13.5" cy="179.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="28.5" cy="179.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="176.5" cy="208.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="168.5" cy="78.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="58.5" cy="180.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="97.5" cy="203.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="50.5" cy="78.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="158.5" cy="300.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="35.5" cy="353.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="35.5" cy="361.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="35.5" cy="383.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="35.5" cy="376.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="50.5" cy="368.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="35.5" cy="368.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="-2.5" cy="176.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="-1.5" cy="183.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="7.5" cy="179.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="2.5" cy="179.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
-<circle cx="-2.5" cy="179.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
-<circle cx="194.5" cy="178.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="161.5" cy="178.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="145.5" cy="178.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
-<circle cx="169.5" cy="178.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="183.5" cy="178.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
-<circle cx="176.5" cy="178.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
-</g>
-<g filter="url(#filter0_ddd_12496_201267)">
-<rect x="137.002" y="359.112" width="42" height="84" rx="2" fill="white"/>
-<path d="M156.689 392.362V381.425H145.752V378.8H156.689V367.862H159.314V378.8H170.252V381.425H159.314V392.362H156.689Z" fill="#CCCCCC"/>
-<path d="M143.002 401.112H173.002" stroke="#E6E6E6"/>
-<path d="M145.752 423.425V420.8H170.252V423.425H145.752Z" fill="#CCCCCC"/>
+<circle cx="-0.5" cy="176.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="-0.5" cy="185.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="-0.5" cy="203.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="13.5" cy="165.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="28.5" cy="165.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="193.5" cy="194.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="158.5" cy="64.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="58.5" cy="166.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="97.5" cy="189.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="39.5" cy="64.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="163.5" cy="286.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="35.5" cy="339.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="35.5" cy="347.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="35.5" cy="369.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="35.5" cy="362.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="50.5" cy="360.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="35.5" cy="354.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="-2.5" cy="162.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="-1.5" cy="169.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="7.5" cy="165.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="2.5" cy="165.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
+<circle cx="-2.5" cy="165.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
+<circle cx="194.5" cy="164.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="161.5" cy="164.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="145.5" cy="164.5" r="7.5" fill="#40BF62" fill-opacity="0.8"/>
+<circle cx="169.5" cy="164.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="183.5" cy="164.5" r="7.5" fill="#F5D93D" fill-opacity="0.8"/>
+<circle cx="176.5" cy="164.5" r="7.5" fill="#EB4747" fill-opacity="0.8"/>
 </g>
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_12496_201267" transform="matrix(0.00106838 0 0 0.00214592 0.107906 0)"/>
+<use xlink:href="#image0_12496_201267" transform="matrix(0.0013624 0 0 0.00273649 0 -0.137602)"/>
 </pattern>
-<filter id="filter0_ddd_12496_201267" x="132.002" y="355.112" width="52" height="94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="1"/>
-<feGaussianBlur stdDeviation="2.5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_12496_201267"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset dy="2"/>
-<feGaussianBlur stdDeviation="1"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
-<feBlend mode="normal" in2="effect1_dropShadow_12496_201267" result="effect2_dropShadow_12496_201267"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feMorphology radius="2" operator="erode" in="SourceAlpha" result="effect3_dropShadow_12496_201267"/>
-<feOffset dy="3"/>
-<feGaussianBlur stdDeviation="0.5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"/>
-<feBlend mode="normal" in2="effect2_dropShadow_12496_201267" result="effect3_dropShadow_12496_201267"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect3_dropShadow_12496_201267" result="shape"/>
-</filter>
 <clipPath id="clip0_12496_201267">
 <rect width="199" height="466" fill="white"/>
 </clipPath>

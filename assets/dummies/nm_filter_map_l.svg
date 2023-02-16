@@ -2,18 +2,18 @@
 <g clip-path="url(#clip0_11766_217481)">
 <g clip-path="url(#clip1_11766_217481)">
 <rect width="936" height="466" transform="translate(-101)" fill="url(#pattern0)"/>
-<circle cx="463" cy="428" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="283.334" cy="290" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="626.334" cy="67" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="231.334" cy="201" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="117.334" cy="201" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="563.334" cy="199" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="463" cy="199" r="5" fill="#3DC4F5" fill-opacity="0.8"/>
-<circle cx="324.334" cy="199" r="5" fill="#3DC4F5" fill-opacity="0.8"/>
-<circle cx="208.334" cy="121" r="5" fill="#3DC4F5" fill-opacity="0.8"/>
-<circle cx="425.334" cy="324" r="5" fill="#0D69F2" fill-opacity="0.8"/>
-<circle cx="355.334" cy="121" r="5" fill="#0D69F2" fill-opacity="0.8"/>
-<circle cx="208.334" cy="221" r="5" fill="#0D69F2" fill-opacity="0.8"/>
+<circle cx="452.5" cy="405.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="272.834" cy="267.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="615.834" cy="44.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="220.834" cy="165.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="106.834" cy="165.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="552.834" cy="162.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="452.5" cy="162.5" r="7.5" fill="#3DC4F5" fill-opacity="0.8"/>
+<circle cx="322.834" cy="163.5" r="7.5" fill="#3DC4F5" fill-opacity="0.8"/>
+<circle cx="197.834" cy="98.5" r="7.5" fill="#3DC4F5" fill-opacity="0.8"/>
+<circle cx="414.834" cy="301.5" r="7.5" fill="#0D69F2" fill-opacity="0.8"/>
+<circle cx="355.834" cy="98.5" r="7.5" fill="#0D69F2" fill-opacity="0.8"/>
+<circle cx="197.834" cy="198.5" r="7.5" fill="#0D69F2" fill-opacity="0.8"/>
 </g>
 <g filter="url(#filter0_ddd_11766_217481)">
 <rect x="671" y="359.112" width="42" height="84" rx="2" fill="white"/>
@@ -45,7 +45,7 @@
 <rect x="1031" y="295" width="16" height="16" rx="1" fill="white" stroke="#E6E6E6" stroke-width="2"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_11766_217481" transform="matrix(0.00106838 0 0 0.00214592 0.107906 0)"/>
+<use xlink:href="#image0_11766_217481" transform="matrix(0.0013624 0 0 0.00273649 0 -0.137602)"/>
 </pattern>
 <filter id="filter0_ddd_11766_217481" x="666" y="355.112" width="52" height="94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>

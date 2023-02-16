@@ -2,12 +2,12 @@
 <g clip-path="url(#clip0_12493_200771)">
 <g clip-path="url(#clip1_12493_200771)">
 <rect width="936" height="466" transform="translate(-368)" fill="url(#pattern0)"/>
-<circle cx="196" cy="428" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="16.334" cy="290" r="5" fill="#F59C3D" fill-opacity="0.8"/>
-<circle cx="196" cy="199" r="5" fill="#3DC4F5" fill-opacity="0.8"/>
-<circle cx="57.334" cy="199" r="5" fill="#3DC4F5" fill-opacity="0.8"/>
-<circle cx="158.334" cy="324" r="5" fill="#0D69F2" fill-opacity="0.8"/>
-<circle cx="88.334" cy="121" r="5" fill="#0D69F2" fill-opacity="0.8"/>
+<circle cx="185.5" cy="405.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="5.83398" cy="267.5" r="7.5" fill="#F59C3D" fill-opacity="0.8"/>
+<circle cx="185.5" cy="162.5" r="7.5" fill="#3DC4F5" fill-opacity="0.8"/>
+<circle cx="55.834" cy="163.5" r="7.5" fill="#3DC4F5" fill-opacity="0.8"/>
+<circle cx="147.834" cy="301.5" r="7.5" fill="#0D69F2" fill-opacity="0.8"/>
+<circle cx="88.834" cy="98.5" r="7.5" fill="#0D69F2" fill-opacity="0.8"/>
 </g>
 <g filter="url(#filter0_ddd_12493_200771)">
 <rect x="136" y="359.112" width="42" height="84" rx="2" fill="white"/>
@@ -18,7 +18,7 @@
 </g>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_12493_200771" transform="matrix(0.00106838 0 0 0.00214592 0.107906 0)"/>
+<use xlink:href="#image0_12493_200771" transform="matrix(0.0013624 0 0 0.00273649 0 -0.137602)"/>
 </pattern>
 <filter id="filter0_ddd_12493_200771" x="131" y="355.112" width="52" height="94" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
