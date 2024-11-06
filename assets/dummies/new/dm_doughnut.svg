@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 170.1 170.1">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #4eb062;
+      }
+
+      .cls-4 {
+        fill: #e9e9ea;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+        opacity: .5;
+      }
+
+      .cls-5, .cls-11, .cls-10 {
+        fill: #fff;
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-11 {
+        stroke: #c1c1c1;
+        stroke-miterlimit: 10;
+        stroke-width: .4px;
+      }
+
+      .cls-6 {
+        fill: #f29c3f;
+      }
+
+      .cls-7 {
+        fill: #e6e6e4;
+      }
+
+      .cls-8 {
+        fill: #49beed;
+      }
+
+      .cls-9 {
+        fill: #3463ac;
+      }
+
+      .cls-13 {
+        display: none;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="7.4" y="7.5" width="155.2" height="155.3"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-2" d="M85.4,52.6l-33.1,6.9c3.2,15.4,16.8,27,33.1,27s18-4.4,23.6-9.6l-23.6-24.4h0Z"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-4" y="0" width="170.1" height="170.1" rx="7.6" ry="7.6"/>
+  <g class="cls-1">
+    <g>
+      <rect class="cls-5" x="-72.2" y="7.5" width="98.3" height="155.3" rx="6.1" ry="6.1"/>
+      <g>
+        <rect class="cls-11" x="38.6" y="7.8" width="93.4" height="154.6" rx="6.1" ry="6.1"/>
+        <circle class="cls-6" cx="54.7" cy="117" r="2.2"/>
+        <circle class="cls-3" cx="54.7" cy="137" r="2.2"/>
+        <circle class="cls-8" cx="54.7" cy="127" r="2.2"/>
+        <circle class="cls-9" cx="54.7" cy="147" r="2.2"/>
+        <rect class="cls-7" x="59.7" y="114.8" width="38.1" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="106.3" y="114.8" width="4.4" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="111.8" y="114.8" width="7.7" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="106.3" y="124.9" width="4.4" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="111.8" y="124.9" width="7.7" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="106.3" y="134.8" width="4.4" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="111.8" y="134.8" width="7.7" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="106.3" y="144.8" width="4.4" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="111.8" y="144.8" width="7.7" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="59.7" y="124.9" width="29" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="59.7" y="134.8" width="35.5" height="4.4" rx="1.9" ry="1.9"/>
+        <rect class="cls-7" x="59.7" y="144.8" width="38.1" height="4.4" rx="1.9" ry="1.9"/>
+        <g class="cls-13">
+          <g>
+            <path class="cls-8" d="M85.4,18.8c-18.7,0-33.8,15.2-33.8,33.9s15.1,33.8,33.8,33.8,33.8-15.2,33.8-33.8-15.1-33.9-33.8-33.9Z"/>
+            <path class="cls-3" d="M96.3,20.6l-10.9,32.1,32.7,8.9c.8-2.8,1.2-5.8,1.2-8.9,0-14.9-9.6-27.5-23-32.1Z"/>
+            <path class="cls-9" d="M85.4,52.6l23.6,24.3c4.3-4.2,7.5-9.5,9.1-15.4,0,0-32.7-8.9-32.7-8.9Z"/>
+            <path class="cls-6" d="M85.4,52.6l-33.1,6.9c3.2,15.4,16.8,26.9,33.1,26.9s17.5-3.7,23.6-9.6l-23.6-24.3h0Z"/>
+          </g>
+          <circle class="cls-10" cx="85.4" cy="52.7" r="23.4"/>
+        </g>
+        <g>
+          <g>
+            <path class="cls-8" d="M85.4,18.8c-18.7,0-33.8,15.2-33.8,33.9s15.1,33.8,33.8,33.8,33.8-15.2,33.8-33.8-15.1-33.9-33.8-33.9Z"/>
+            <path class="cls-3" d="M96.3,20.6l-10.9,32.1,32.7,8.9c.8-2.8,1.2-5.8,1.2-8.9,0-14.9-9.6-27.5-23-32.1Z"/>
+            <path class="cls-9" d="M85.4,52.6l23.6,24.3c4.3-4.2,7.5-9.5,9.1-15.4,0,0-32.7-8.9-32.7-8.9Z"/>
+            <g class="cls-12">
+              <path class="cls-6" d="M85.4,18.8c-18.7,0-33.8,15.2-33.8,33.9s15.1,33.8,33.8,33.8,33.8-15.2,33.8-33.8-15.1-33.9-33.8-33.9Z"/>
+            </g>
+          </g>
+          <circle class="cls-10" cx="85.4" cy="52.7" r="23.4"/>
+        </g>
+      </g>
+      <rect class="cls-5" x="145.1" y="7.5" width="98.3" height="72.3" rx="6.1" ry="6.1"/>
+      <rect class="cls-5" x="145.1" y="89.8" width="98.3" height="72.3" rx="6.1" ry="6.1"/>
+    </g>
+  </g>
+  <path class="cls-6" d="M47.9-64.1"/>
+</svg>

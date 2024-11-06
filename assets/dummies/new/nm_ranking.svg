@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 170.1 170.1">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        fill: #4a494a;
+      }
+
+      .cls-4 {
+        fill: #393a3a;
+      }
+
+      .cls-7 {
+        fill: #1e1e1e;
+        stroke: #2b2b2b;
+        stroke-miterlimit: 10;
+        stroke-width: .4px;
+      }
+
+      .cls-5 {
+        fill: #3663ac;
+      }
+
+      .cls-6 {
+        fill: #1f1f1f;
+        isolation: isolate;
+        opacity: .7;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="7.4" y="7.6" width="155.1" height="155.1"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-4" y="0" width="170.1" height="170.1" rx="7.6" ry="7.6"/>
+  <g class="cls-1">
+    <g>
+      <rect class="cls-6" x="145.1" y="7.6" width="101.3" height="70.8" rx="6.1" ry="6.1"/>
+      <rect class="cls-6" x="145.1" y="91.5" width="101.3" height="70.5" rx="6.1" ry="6.1"/>
+      <rect class="cls-6" x="-72.8" y="7.6" width="98.2" height="155.1" rx="6.1" ry="6.1"/>
+      <path class="cls-7" d="M44.7,8h81.1c3.4,0,6.1,2.7,6.1,6.1v142.1c0,3.3-2.7,6.1-6.1,6.1H44.7c-3.4,0-6.1-2.7-6.1-6.1V14.1c0-3.3,2.7-6.1,6.1-6.1Z"/>
+    </g>
+  </g>
+  <path class="cls-5" d="M51.5,29.7h-1.6v-5.1l-1.6.5v-1.2l3.1-1.1h0v7h0Z"/>
+  <rect class="cls-3" x="56.6" y="20" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="112.7" y="20" width="9.3" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="56.6" y="28.7" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <path class="cls-5" d="M52.8,58.2h-4.9v-1.1l2.2-2.3c.6-.6.8-1.1.8-1.5s0-.5-.2-.7-.3-.2-.6-.2-.4,0-.6.3c-.2.2-.2.5-.2.8h-1.6c0-.4,0-.8.3-1.2s.5-.6.9-.8.8-.3,1.3-.3c.8,0,1.3.2,1.7.5s.6.8.6,1.5,0,.5-.2.8c0,.3-.3.5-.5.8s-.6.7-1,1.1l-.9,1h2.7v1.2h.2Z"/>
+  <rect class="cls-3" x="56.6" y="48.6" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="112.7" y="48.6" width="9.3" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="56.6" y="57.3" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <path class="cls-5" d="M49.4,83.7h.8c.6,0,.9-.3.9-.9s0-.4-.2-.6c0,0-.3-.2-.6-.2s-.4,0-.6.2c-.2,0-.2.3-.2.5h-1.6c0-.4,0-.7.3-1s.5-.5.8-.7.8-.2,1.2-.2c.8,0,1.4.2,1.8.5.4.4.7.8.7,1.5s0,.6-.3.8-.5.5-.8.6c.4,0,.7.3.9.6.2.3.3.6.3,1,0,.6-.2,1.1-.7,1.5s-1.1.6-1.9.6-.9,0-1.3-.3c-.4-.2-.7-.4-.9-.7-.2-.3-.3-.7-.3-1h1.6c0,.2,0,.4.3.6.2.2.4.2.6.2s.5,0,.7-.2.3-.4.3-.6c0-.4,0-.6-.3-.7s-.4-.2-.7-.2h-.8v-1.2h0Z"/>
+  <rect class="cls-3" x="56.6" y="77.1" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="112.7" y="77.1" width="9.3" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="56.6" y="85.8" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <path class="cls-5" d="M52.2,113.6h.7v1.2h-.7v1.5h-1.6v-1.5h-2.7v-1l2.7-4.5h1.6v4.2h0ZM49.4,113.6h1.3v-2.1.2c0,0-1.3,2-1.3,2h0Z"/>
+  <rect class="cls-3" x="56.6" y="105.6" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="112.7" y="105.6" width="9.3" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="56.6" y="114.3" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <path class="cls-5" d="M48.1,141.5l.4-3.6h4.1v1.3h-2.8l-.2,1.4c0,0,.3-.1.5-.2h.5c.7,0,1.2.2,1.6.6.4.4.6,1,.6,1.7s0,.8-.3,1.2c-.2.4-.5.6-.8.8-.4.2-.8.3-1.3.3s-.8,0-1.2-.3c-.4-.2-.7-.4-.9-.7s-.3-.7-.3-1.1h1.6c0,.3,0,.5.2.6,0,.1.3.2.6.2.5,0,.8-.4.8-1.2s-.3-1.1-1-1.1-.7.1-.8.4l-1.3-.3h0Z"/>
+  <rect class="cls-3" x="56.6" y="134.2" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="112.7" y="134.2" width="9.3" height="5.3" rx="2.4" ry="2.4"/>
+  <rect class="cls-3" x="56.6" y="142.9" width="38.2" height="5.3" rx="2.4" ry="2.4"/>
+</svg>
